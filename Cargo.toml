@@ -6,3 +6,4 @@ authors = ["Michael Whittaker <mjw297@cornell.edu>"]
 
 [[bin]]
 name = "cryptopals"
+title = "cryptopals"
