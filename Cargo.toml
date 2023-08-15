@@ -2,6 +2,7 @@
 
 name = "cryptopals"
 version = "0.0.1"
+additional_version = "0.0.2"
 authors = ["Michael Whittaker <mjw297@cornell.edu>"]
 
 [[bin]]
